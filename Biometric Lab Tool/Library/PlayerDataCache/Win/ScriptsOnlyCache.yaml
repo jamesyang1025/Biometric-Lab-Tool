@@ -152,7 +152,7 @@ ScriptsOnlyBuild:
     className: Image
   - hash:
       serializedVersion: 2
-      Hash: d2abbdea0e2627c52a009b44e5e82703
+      Hash: cacf1d834b44573d0b2ffa15679765c7
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MenuManager
