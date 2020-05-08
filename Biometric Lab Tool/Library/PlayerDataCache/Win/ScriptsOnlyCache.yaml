@@ -23,6 +23,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
   sceneClasses:
@@ -61,6 +62,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14234}
     - Class: 114
       Script: {instanceID: 14254}
+    - Class: 114
+      Script: {instanceID: 14276}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -152,7 +155,7 @@ ScriptsOnlyBuild:
     className: Image
   - hash:
       serializedVersion: 2
-      Hash: cacf1d834b44573d0b2ffa15679765c7
+      Hash: 897d5a5e75fda8f81efef90dca48876b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MenuManager
